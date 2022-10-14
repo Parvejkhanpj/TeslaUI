@@ -1,0 +1,12 @@
+.desktop-center-nav li {
+  font-size: 16px;
+  font-weight: 400;
+  color: rgb(15 23 42);
+  cursor: pointer;
+}
+
+.desktop-right-nav li {
+  margin-left: 30px;
+  font-weight: 500;
+  cursor: pointer;
+}
